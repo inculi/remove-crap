@@ -22,6 +22,6 @@ Episode 1.mp4
 Episode 2.mp4  
 Episode 3.mp4  
 
-#Dependencies
+# Dependencies
 An operating system  
 Python 2.7.whatever  
